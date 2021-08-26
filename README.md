@@ -1,5 +1,7 @@
 # Computer Architechtire Java Projects San Jose State University, Fall 2020.
-Computer Architecture Projects at SJSU
+
+
+**Computer Architecture Projects at SJSU**
 
 ![alt text](https://github.com/sergiogutierrez2/Computer_Architecture-Java-Projects-SJSU-Fall2020/blob/master/IntelliJ%20Pics/CertifyHeap.png)
 
